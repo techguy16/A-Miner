@@ -26,7 +26,7 @@ print(" Welcome to ALPHA BITCOIN MINER")
 print("Alpha Miner is starting \n")
 
 Aaaadress = input("Please input your wallet address below \n" )
-address = '3PEJhntV7L4WT1BgYAicpcjkUamvz3DN7V' 
+address = Aaaadress # In the original version, this was set to the creator's address, which in turn meant the user wouldn't get the rewards.
 
 print(Back.BLUE , Fore.WHITE , 'BTC WALLET: ' , Fore.BLACK , str(Aaaadress) , Style.RESET_ALL)
 

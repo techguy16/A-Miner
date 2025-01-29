@@ -1,18 +1,22 @@
-# Alpha-Miner
-Bitcoin miner runs at the possible highest speed your pc can handle
+# Alpha Miner
+
 ---
-You will be asked for your bitcoin wallet address when you start the miner.
-To run this miner successfully , please use the following command ;
+### Bitcoin miner that runs at the highest speed your PC can handle.
 
+You will be asked for your Bitcoin wallet address when you start the miner.
+To run this miner successfully, please use the following command:
+```bash
 git clone https://github.com/alpha918/A-Miner.git && cd A-Miner
+```
 
---- 
-
-# This is a one line code to use to install all requirements needed for the miner to work perfectly, and to install the miner as well as run it.
-
-git clone https://github.com/alpha918/A-Miner.git && cd A-Miner && python3 A-Miner.py
-
-# To start the miner, please use the command below;
+### To start the miner, please use the command below:
+```bash
 python3 A-Miner.py
-#
-Thank you for using Alpha Bitcoin Miner !!!
+```
+
+---
+
+This is a one line code to use to install all requirements needed for the miner to work perfectly, and to install the miner as well as run it.
+```bash
+git clone https://github.com/alpha918/A-Miner.git && cd A-Miner && python3 A-Miner.py
+```
